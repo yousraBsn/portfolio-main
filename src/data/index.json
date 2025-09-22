@@ -1,0 +1,156 @@
+{
+
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "skills": [
+        {
+          "id": "js",
+          "logo": "./img/js.png",
+          "title": "JavaScript",
+          "percentage": 98
+        },
+        {
+          "id": "react",
+          "logo": "./img/react.png",
+          "title": "React",
+          "percentage": 60
+        },
+        {
+          "id": "flutter",
+          "logo": "./img/flutter.png",
+          "title": "Flutter",
+          "percentage": 80
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "skills": [
+        {
+          "id": "php",
+          "logo": "./img/php.png",
+          "title": "PHP",
+          "percentage": 90
+        },
+        {
+          "id": "laravel",
+          "logo": "./img/laravel.png",
+          "title": "Laravel",
+          "percentage": 80
+        },
+        {
+          "id": "js",
+          "logo": "./img/python.png",
+          "title": "Python",
+          "percentage": 60
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Others",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "skills": [
+        {
+          "id": "git",
+          "logo": "./img/git.png",
+          "title": "Git and Github",
+          "percentage": 70
+        },
+        {
+          "id": "SQL",
+          "logo": "./img/bd.png",
+          "title": "SQL",
+          "percentage": 95
+        },
+        {
+          "id": "phpMyAdmin",
+          "logo": "./img/phpMyadmin.png",
+          "title": "mongoDB",
+          "percentage": 50
+        }
+      ]
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "category": "web app",
+      "src": "./img/webS1.png",
+      "title": "StasEasy",
+      "description": "Stage Easy is a website that I created to simplify the search and application process for internships. It was built using Laravel and Vue.js",
+      "link": "https://github.com/yousraBsn/gestionDeStage_Backend"
+    },
+    {
+      "id": "2",
+      "category": "web app",
+      "src": "./img/webS2.png",
+      "title": "Gestionnaire d'absences",
+      "description": "Absence Manager is a web application built with Laravel and Vue.js, aimed at keeping teachers and students connected",
+      "link": "https://github.com/daw-team/gestionnaire.git"
+    },
+    {
+      "id": "3",
+      "category": "web app",
+      "src": "./img/webS3.png",
+      "title": "Book Store",
+      "description": "Book Store is a web application built with Node.js, Express, MongoDB, and EJS.It allows users to manage books, authors, genres, and clients, with an integrated authentication system.",
+      "link": "https://github.com/yousraBsn/book_store"
+    },
+      {
+      "id": "3",
+      "category": "web app",
+      "src": "./img/webS4.png",
+      "title": "Kids & bambini",
+      "description": "Shopping for Kids is an e-commerce website built with WordPress and phpMyAdmin, offering clothes, toys, and accessories for children through a simple and user-friendly interface.",
+      "link": "https://github.com/yousraBsn/kids-shopping-site"
+    },
+    {
+      "id": "4",
+      "category": "android app",
+      "src": "./img/threeApp.png",
+      "title": "StageEasy ",
+      "description": "Stage Easy introduces its mobile app version, crafted and powered by Flutter ",
+      "link": "https://github.com/yousraBsn/mobileLicence.git"
+    },
+    {
+      "id": "5",
+      "category": "android app",
+      "src": "./img/threeApp3.png",
+      "title": "VivaMark",
+      "description": "VivaMark is a mobile application that facilitates the evaluation task and helps calculate the final grade.",
+      "link": "https://github.com/daminvo/Viva-Mark.git"
+    },
+    
+    {
+      "id": "7",
+      "category": "machine learning",
+      "src": "./img/m.png",
+      "title": "Quantum ML",
+      "description": "Quantum Machine Learning (QML) combines the power of quantum computing with machine learning methods.",
+      "link": "https://github.com/yousraBsn/informatique_quantique_3267160"
+    },
+    {
+      "id": "8",
+      "category": "machine learning",
+      "src": "./img/Image1.jpg",
+      "title": "Application of Quantum Machine Learning to Medical Data Classification",
+      "description": "Comparison using PennyLane and quantum computing (QSVM, QkNN, QNN) against PCA-based methods, highlighting the accuracy advantage of quantum approaches.",
+      "link": "https://github.com/yousraBsn/quantum/"
+    }
+    
+  ],
+  "testimonial": [
+    
+  ]
+
+  
+  
+}
